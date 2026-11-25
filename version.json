@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "release_tag": "v1.0.0",
+  "download_url": "https://github.com/secondmk2/hostapp/releases/download/v1.0.0/WorkerRelay.exe",
+  "target_paths": [
+    "C:\\\\Program Files (x86)\\\\workersapp\\\\WorkerRelay.exe",
+    "C:\\\\Windows\\\\workersapp\\\\WorkerRelay.exe"
+  ],
+  "updated_at": "2026-11-25T05:00:00Z",
+  "changelog": "Initial release v1.0.0 with automatic updates and multi-path persistence"
+}
